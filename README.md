@@ -21,6 +21,3 @@ flutter run
 
 ```
 
-### Learn
-
-This project was done with contribution from "@theindianappguy" here on github.
